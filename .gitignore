@@ -1,0 +1,19 @@
+
+# Node and Next.js artifacts
+**/node_modules
+**/.next
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python artifacts
+**/__pycache__/
+**/*.py[cod]
+
+# Environment files
+*.env
+.env.local
+
+# Misc
+.DS_Store
+.venv/
